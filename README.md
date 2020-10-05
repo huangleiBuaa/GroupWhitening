@@ -41,6 +41,12 @@ Table 3, COCO object detection and segmentation results using Mask R-CNN with Re
 
 
 
+## Contact
+
+huanglei36060520@gmail.com
+
+
+
 ## Acknowledgement
 
 Note that the code repo `./classification/` is based on the [IterNorm project](https://github.com/huangleiBuaa/IterNorm), and the code repo `/maskrcnn_debug/`is based on the [maskrcnn project](https://github.com/facebookresearch/maskrcnn-benchmark).
