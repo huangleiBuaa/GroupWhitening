@@ -16,10 +16,10 @@ This project provides the PyTorch implementation of Group Whitening described in
 
 |             | BaseLine | Using GW module                                              |
 | ----------- | -------- | ------------------------------------------------------------ |
-| ResNet-50   | 76.23    | 77.72 ([model](./classification/ImageNet/models/resnet_whiten_010n), [pth](https://drive.google.com/file/d/1bNeTDhfu5jg8aBatOCSQAe_WzTouUfHA/view?usp=sharing) ) |
-| ResNet-101  | 77.69    | 78.71 ([model](./classification/ImageNet/models/resnet_whiten_010n), [pth](https://drive.google.com/file/d/1BnuzZzpaQ6rgBHho5mOQhBWBh1Lh-trK/view?usp=sharing) ) |
-| ResNeXt-50  | 77.01    | 78.43 ([model](./classification/ImageNet/models/resnext_whiten_010n), [pth](https://drive.google.com/file/d/1pJSIbjeHpELJ5zlWOF6ekRGjykRYf6tO/view?usp=sharing) ) |
-| ResNeXt-101 | 79.29    | 80.43 ([model](./classification/ImageNet/models/resnext_whiten_010n), [pth](https://drive.google.com/file/d/1lVAvTSCnHs-Ij5gt7ubQvLmZzUQdKUNt/view?usp=sharing) ) |
+| ResNet-50   | 76.23    | 77.72 ([model](./classification/ImageNet/models/resnet_whiten_010n.py), [pth](https://drive.google.com/file/d/1bNeTDhfu5jg8aBatOCSQAe_WzTouUfHA/view?usp=sharing) ) |
+| ResNet-101  | 77.69    | 78.71 ([model](./classification/ImageNet/models/resnet_whiten_010n.py), [pth](https://drive.google.com/file/d/1BnuzZzpaQ6rgBHho5mOQhBWBh1Lh-trK/view?usp=sharing) ) |
+| ResNeXt-50  | 77.01    | 78.43 ([model](./classification/ImageNet/models/resnext_whiten_010n.py), [pth](https://drive.google.com/file/d/1pJSIbjeHpELJ5zlWOF6ekRGjykRYf6tO/view?usp=sharing) ) |
+| ResNeXt-101 | 79.29    | 80.43 ([model](./classification/ImageNet/models/resnext_whiten_010n.py), [pth](https://drive.google.com/file/d/1lVAvTSCnHs-Ij5gt7ubQvLmZzUQdKUNt/view?usp=sharing) ) |
 
 
 
