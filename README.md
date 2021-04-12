@@ -2,7 +2,11 @@
 
 This project provides the PyTorch implementation of Group Whitening described in the following paper:
 
-**Group Whitening: Balancing Learning Efficiency and Representational Capacity**,  [arXiv:2009.13333](https://arxiv.org/abs/2009.13333).
+**Group Whitening: Balancing Learning Efficiency and Representational Capacity**, 
+
+Lei Huang, Yi Zhou, Li Liu, Fan Zhu, Ling Shao
+
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021*.   [arXiv:2009.13333](https://arxiv.org/abs/2009.13333).
 
 
 
